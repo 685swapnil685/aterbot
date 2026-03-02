@@ -2,8 +2,8 @@
 	"private": true,
 	"type": "module",
 	
-	"name": "aterbot",
-	"version": "0.0.0",
+	"name": "RAJJ2231",
+	"version": "1.21.10",
 	
 	"scripts": {
 		"start": "tsx ./src/index.ts",
