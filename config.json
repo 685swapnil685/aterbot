@@ -2,14 +2,14 @@
 	"client": {
 		"host": "unknwngmr685.aternos.me",
 		"port": "52621",
-		"username": "Please enter the bot's username you want"
+		"username": "rajjj222"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
 	"logLevel": ["error", "log", "debug"],
 	"action": {
 		"commands": ["forward", "back", "left", "right", "jump"],
-		"holdDuration": 500,
-		"retryDelay": 1500
+		"holdDuration": 5000,
+		"retryDelay": 15000
 	}
 }
